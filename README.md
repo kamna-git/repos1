@@ -1,3 +1,4 @@
 # repos1
-This is my first repository
-Author - Kamna Shrivastava
+This is my first repository.
+<br>
+Author - Kamna Shrivastava.
